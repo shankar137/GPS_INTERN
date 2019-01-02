@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457585770247",
+    "firebase_url": "https://gpsintern-6d10c.firebaseio.com",
+    "project_id": "gpsintern-6d10c",
+    "storage_bucket": "gpsintern-6d10c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457585770247:android:34d659f395a5a92a",
+        "android_client_info": {
+          "package_name": "com.alliance.gps_intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457585770247-i0l1t1re5ustq0pii8iqrslcrlu7b3kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alliance.gps_intern",
+            "certificate_hash": "e99d8fa0e1fa691d7cad54392f5b2032c348995c"
+          }
+        },
+        {
+          "client_id": "457585770247-8nl7h1r436n35u4gft5f0r7h5u7cmbfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm5Qy3Tdv2cjBMJzPuYp5T-Iukt1ZeaH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457585770247-8nl7h1r436n35u4gft5f0r7h5u7cmbfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
